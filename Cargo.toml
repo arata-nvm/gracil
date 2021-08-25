@@ -6,3 +6,9 @@ edition = "2018"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+mexprp = "0.3"
+rug = "1.13"
+image = "0.23"
+hsl = "0.1"
+structopt = "0.3"
+pbr = "1.0"
